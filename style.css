@@ -1,0 +1,13 @@
+body,
+html {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-wrappers {
+  display: flex;
+  flex-direction: column;
+}
